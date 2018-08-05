@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/react-tutorial-1.svg)](https://www.guardrails.io)
 
 # React Tutorial
 
